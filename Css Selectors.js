@@ -1,0 +1,17 @@
+/**
+* Front End Interview Questions: CSS Selectors
+* 
+* Q: What are some CSS selectors and how do they differ?
+*/
+
+.green {
+    color: green;
+}
+
+#red {
+    color: red;
+}
+
+#red:hover {
+    color: blue;
+}
